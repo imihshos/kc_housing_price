@@ -19,7 +19,7 @@ The following machine learning models were used:
 | LightGBM              | 0.87806     |0.18576     |
 
 
-
+<br/>
 
 Ensemble Stacking was then used to build the final model for prediction. 
 
