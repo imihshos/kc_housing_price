@@ -11,12 +11,12 @@ The following machine learning models were used:
 
 
 | Model                 | Accuracy    | RSME       | 
-|:--------------------: |:-----------:| :---------:| 
-| Linear Regression     | 0.7535364   |0.7535364   |
-| Ridge Regression      | 0.7529079   |0.7535364   | 
-| Random Forest         | 0.7484488   |0.7535364   | 
-| XGBoost               | 0.6919283   |0.7535364   |
-| LightGBM              | 0.7202357   |0.7535364   |
+|:--------------------: |:-----------:|:----------:| 
+| Linear Regression     | 0.78856     |0.24461     |
+| Ridge Regression      | 0.78856     |0.24461     | 
+| Random Forest         | 0.84998     |0.20604     | 
+| XGBoost               | 0.90151     |0.16695     |
+| LightGBM              | 0.87806     |0.18576     |
 
 
 
