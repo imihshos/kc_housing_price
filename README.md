@@ -19,8 +19,6 @@ The following machine learning models were used:
 | LightGBM              | 0.87806     |0.18576     |
 
 
-<br/>
-
 Ensemble Stacking was then used to build the final model for prediction. 
 
 | Model                 | Accuracy    | RSME       | 
@@ -29,5 +27,5 @@ Ensemble Stacking was then used to build the final model for prediction.
 | Ridge Regression      | 0.7529079   |0.7535364   | 
 | Random Forest         | 0.7484488   |0.7535364   | 
 
-
+<br/>
 Data Source: https://www.kaggle.com/datasets/harlfoxem/housesalesprediction
